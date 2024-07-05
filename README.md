@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-
-![snake gif](https://github.com/mani5h-agarwal/mani5h-agarwal/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/mani5h-agarwal/mani5h-agarwal/output/snake.svg" alt="Snake animation" />
