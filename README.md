@@ -1,4 +1,4 @@
-## Hello there 👋! My name is Manish Agarwal
+## Hello there 👋! My name is Manish Agarwal-Application Developer and ML enthusiast
 
 <!--
 **mani5h-agarwal/mani5h-agarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
