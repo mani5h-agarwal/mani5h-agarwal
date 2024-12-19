@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is Manish Agarwal - Application Developer and ML enthusiast</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mani5h-agarwal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=mani5h-agarwal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 </div>
 <br clear="both">
 <div align="center"> 
