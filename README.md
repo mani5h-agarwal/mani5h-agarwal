@@ -12,6 +12,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
