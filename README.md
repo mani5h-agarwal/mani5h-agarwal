@@ -30,6 +30,12 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kaggle/kaggle-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
   
 </div>
 
