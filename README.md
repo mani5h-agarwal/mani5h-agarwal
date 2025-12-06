@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Manish Agarwal - Application Developer and ML enthusiast</h2>
+<h2 align="left">Hi 👋! My name is Manish Agarwal - Mobile Application Developer</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mani5h-agarwal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
